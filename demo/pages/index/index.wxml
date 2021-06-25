@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <image class='btnImg1' src="{{avatarUrl}}"></image>
+    <image class='btnImg' src='./＜编组＞@2x.png'
+    bindtouchstart='touchStart' bindtouchend='touchEnd' bindtap='pressTap'></image>
+</view>
+

@@ -1,0 +1,14 @@
+/**index.wxss**/
+.btnImg{
+  width: 356rpx;
+  height: 339rpx;
+  position: relative;
+  padding-top: 260rpx;
+  padding-left: 50rpx;
+  
+}
+.btnImg1{
+  width: 856rpx;
+  height: 845rpx;
+  position:absolute;
+}
